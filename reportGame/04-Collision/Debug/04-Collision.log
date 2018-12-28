@@ -1,0 +1,9 @@
+﻿  Mario.cpp
+c:\users\ho thai ngoc\desktop\reportgame\04-collision\mario.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\ho thai ngoc\desktop\reportgame\04-collision\mario.cpp(204): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ho thai ngoc\desktop\reportgame\04-collision\mario.cpp(214): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ho thai ngoc\desktop\reportgame\04-collision\mario.cpp(224): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ho thai ngoc\desktop\reportgame\04-collision\mario.cpp(234): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ho thai ngoc\desktop\reportgame\04-collision\mario.cpp(525): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ho thai ngoc\desktop\reportgame\04-collision\mario.cpp(526): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  04-Collision.vcxproj -> C:\Users\Ho Thai Ngoc\Desktop\reportGame\Debug\04-Collision.exe

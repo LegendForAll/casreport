@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--Demo read, write, edit XML document using TinyXML library-->
+<candle>
+	<link></link>
+	<box>
+		<width></width>
+		<height></height>
+	</box>
+    <animation id="0">
+    	<frame id="301" left="0" top="0" right="32" bottom="64"></frame>
+    	<frame id="302" left="32" top="0" right="64" bottom="64"></frame>
+	</animation>
+	<animation id="1">
+    	<frame id="303" left="64" top="0" right="106" bottom="45"></frame>
+    	<frame id="304" left="106" top="0" right="148" bottom="45"></frame>
+    	<frame id="305" left="148" top="0" right="190" bottom="45"></frame>
+	</animation>
+</candle>
